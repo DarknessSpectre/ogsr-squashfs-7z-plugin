@@ -1,0 +1,10 @@
+SquashFS (LZ4) 7z Plugin includes third-party code:
+
+third_party/7zip
+  7-Zip 26.05 source code, Copyright (C) 1999-2026 Igor Pavlov.
+  GNU LGPL v2.1 or later (with the unRAR restriction for RAR code, which is not used here).
+  See third_party/7zip/DOC/License.txt and third_party/7zip/DOC/copying.txt.
+
+third_party/lz4
+  LZ4 1.10.0 library (lz4.c, lz4.h, lz4hc.c, lz4hc.h), Copyright (C) Yann Collet.
+  BSD 2-Clause license, see third_party/lz4/LICENSE.
