@@ -16,7 +16,7 @@ SquashFS 7z Plugin lets you work with OGSR Engine SquashFS archives (`.sq`, `.sq
 1. Download the latest release `.dll` file from GitHub
 2. Pick the DLL that matches your 7‑Zip install:
    - `SQ_x64.dll` for 64‑bit 7‑Zip (most installs)
-3. Copy the DLL into your 7‑Zip `Formats` directory (e.g., `C:\Program Files\7-Zip\Formats` or `C:\Program Files\7-Zip-Zstandard\Formats`). Create the `Formats` folder if it isn't there.
+3. Copy the DLL into your 7‑Zip `Formats` directory (e.g., `C:\Program Files\7-Zip\Formats`). Create the `Formats` folder if it isn't there.
 
 Check: `7z i` lists the `sq (OGSR)` and `sq` formats.
 
